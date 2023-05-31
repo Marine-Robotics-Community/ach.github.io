@@ -28,7 +28,7 @@ a{
   }
 
 #h-ach {
-    background: url("../img/bgach.jpeg") center top no-repeat fixed;
+    background: url("../img/intro-carousel/8.JPG") center top no-repeat fixed;
     background-size: cover;
     padding: 60px 0 40px 0;
     position: relative;
@@ -324,7 +324,7 @@ a{
 #our-ach .our-ach{
     background: url("../img/intro-carousel/8.jpg") center top no-repeat fixed;
     background-size: cover;
-    padding: 60px 0 40px 0;
+    padding:  60px 40px 0;
     position: relative;
   }
   
